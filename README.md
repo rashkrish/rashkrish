@@ -24,6 +24,7 @@
 | **MSc Dissertation** | Chaos synchronization & secure communication via Lorenz & Rössler | [🔗 Repository](https://github.com/rashkrish/msc-dissertation) |
 | **DSKC for Research & Innovation** | Monte Carlo & MCMC modelling of FRB dispersion measures | [🔗 Repository](https://github.com/rashkrish/dskc-research) |
 | **RAWS-2021: Pulsar Detection** | FFT & de-dispersion pipeline for Ooty Radio Telescope data | [🔗 Repository](https://github.com/rashkrish/raws-pulsar) |
+| **Quant Mean Reversion SPY** | Trend-Filtered Mean Reversion Strategy on SPY | [🔗 Repository](https://github.com/rashkrish/Quant_Mean_Reversion_SPY) |
 
 <hr/>
 
