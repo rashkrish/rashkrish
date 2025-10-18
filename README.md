@@ -12,7 +12,7 @@
 - 🎓 **Background**: MSc Mathematical and Theoretical Physics  
 - 💼 **Current Role**: Academic Mathematics Tutor at University of Sheffield International College  
 - 🔭 **Current Focus**: Dynamical Systems, Mathematical Modelling & Machine Learning in Physics  
-- 🌱 **Learning**: Advanced Algebra, Manifolds, Deep Learning  
+- 🌱 **Learning**: Manifolds, Deep Learning  
 - 💬 **Ask me about**: Python for Research, Scientific Computing & LaTeX  
 - 📫 **Email**: sarwalrashmi@gmail.com  
 
