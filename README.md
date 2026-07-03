@@ -42,17 +42,6 @@
 
 <hr/>
 
-### 🔹 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashkrish&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashkrish&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<hr/>
-
 ### 🔹 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rashmi-s-454175190/" target="_blank">
