@@ -21,7 +21,7 @@
 ### 🔹 Featured Projects
 | Project | Description | Repository |
 | :------ | :---------- | :--------- |
-| **Fraud Detection** | [🔗 Repository](https://github.com/rashkrish/Fraud-Detection-1)
+| **Fraud Detection** | End-to-end fraud classification pipeline, model comparison, cost-sensitive thresholding, deployed via FastAPI & Docker | [🔗 Repository](https://github.com/rashkrish/Fraud-Detection-1)
 | **MSc Dissertation** | Chaos synchronization & secure communication via Lorenz & Rössler | [🔗 Repository](https://github.com/rashkrish/Chaos-Synchronization-and-Secure-Communication) |
 | **DSKC for Research & Innovation** | Monte Carlo & MCMC modelling of FRB dispersion measures | [🔗 Repository](https://github.com/rashkrish/DSKC-2022) |
 | **RAWS-2021: Pulsar Detection** | FFT & de-dispersion pipeline for Ooty Radio Telescope data | [🔗 Repository](https://github.com/rashkrish/Data-Analysis-and-Signal-Processing) |
